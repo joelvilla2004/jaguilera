@@ -1,0 +1,278 @@
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    opacity: 1;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 2px 2px 5px red;
+    font-weight: bold;
+
+
+
+}
+
+#Gg{
+
+    border-radius: 10px;
+
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-color: rgb(255, 51, 0);
+
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+
+h4 {
+
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(255, 0, 0);
+    box-sizing: border-box;
+    background-color: rgb(255, 255, 255);
+    font-family: "Latin Modern Roman";
+    font-style: oblique
+}
+
+h5 {
+    font-size: 30px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+    font-family: "Latin Modern Roman";
+    font-style: oblique
+}
+
+
+.Presentació {
+    text-align: center;
+}
+
+
+section {
+    text-align: center;
+
+
+}
+
+#tit {
+    color: rgb(255, 0, 0);
+    text-align: center;
+    font-family: Comic Sans MS;
+    font-weight: bold;
+    font-size: 30px;
+    color: #EBD758;
+    text-shadow: -1px 0 #414D68, 0 1px #414D68, 1px 0 #414D68, 0 -1px #414D68, -2px 2px 0 #414D68, 2px 2px 0 #414D68, 1px 1px #414D68, 2px 2px #414D68, 3px 3px #414D68, 4px 4px #414D68, 5px 5px #414D68 6px 6px #414D68, 7px 7px #414D68, 8px 8px #414D68, 9px 9px #414D68;
+}
+
+footer {
+
+
+    color: #ff0000;
+}
+
+
+
+.Producte {
+
+    background-color: rgba(0, 0, 0, 0.589);
+    color: rgb(255, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+    margin: 5px;
+    padding: 20px;
+    display: inline-block;
+    width: 20%;
+    height: 370px;
+    opacity: 10;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px rgb(255, 255, 255);
+    background-image: url(c22cb7f949a45c729551c3600aaad0fd.jpg);
+
+}
+
+.Presentació {
+    color: rgb(255, 255, 255);
+    margin: 2px;
+    padding: 25px;
+    display: inline-block;
+    width: 40%;
+    height: 380px;
+    opacity: 1;
+    border-radius: 20px;
+    font-size: x-large;
+    text-shadow: #ff0000;
+
+}
+
+.Info {
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(0, 0, 0);
+    margin: 50px;
+    padding: 15px;
+    outline-style: double;
+    border-color: rgb(255, 255, 255)
+}
+
+
+li {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: yellow;
+}
+
+
+
+
+
+nav {
+    text-align: center;
+    margin-left: 520px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    color: rgb(229, 255, 0);
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px 200px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    outline: none;
+
+}
+
+
+
+
+
+body {
+    background-image: url(kk.jpeg);
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+#Game {
+
+    text-align: center;
+    size-adjust: 155px;
+    size: 13px;
+    width: 200px;
+    height: 250px;
+}
+
+#Icono {
+
+
+    text-align: center;
+    size-adjust: 155px;
+    size: 13px;
+    width: 500px;
+    height: 290px;
+    margin: 50px;
+
+}
+
+#link {
+    color: yellow;
+
+
+}
+
+form {
+    border-style: dashed;
+    font: small-caps 100%/200% serif;
+    color: rgb(255, 255, 255);
+    text-align: left;
+    color: yellow;
+}
+
+.section2 {
+
+    margin-left: 500px;
+
+}
+
+ul {
+
+    text-align: left;
+    color: yellow;
+
+}
+
+.Empreses {
+    color: rgb(0, 26, 255);
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    margin: 1px;
+    padding: 13px;
+    display: flex;
+    width: 10%;
+    height: 13px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px rgb(255, 255, 255);
+    text-align: center;
+}
+
+
+
+.fa-facebook {
+    background: #1877f2;
+}
+
+.fa-linkedin {
+    background: #0a66c2;
+}
+
+.fa-twitter {
+    background: #1da1f2;
+}
+
+.fa-instagram {
+    background: #c32aa3;
+}
+
+.fa-youtube {
+    background: #ff0000;
+}
+
+.redes {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.redes i {
+    color: #fff;
+    width: 40px;
+    height: 40px;
+    margin: 1px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.redes a {
+    text-decoration: none;
+}
+
+.redes i:hover {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+    opacity: .9;
+
+}
