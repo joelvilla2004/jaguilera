@@ -1,0 +1,195 @@
+
+body{
+
+  background: url(42315267-pastel-de-fondo-beige-diseño-de-color-blanco-neutro-o-marrón-marrón-textura-grunge-vintage-diseño-we.jpg);
+}
+
+table {
+  width: 80%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+a {
+  color: brown;
+}
+
+h1,h2{
+  text-align: center;
+}
+
+
+nav{
+  text-align: center;
+}
+
+iframe{
+  text-align: center;
+}
+
+
+.videosYT{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.localització{
+  display: flex;
+  justify-content: center;
+  height: 400px;
+}
+
+.web{
+  color: blue;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.container img {
+  width: 30%;
+  height: 30%;
+}
+
+footer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+
+.persona {
+  width: 300px;
+  height: 600px;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.persona h3 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  
+
+}
+
+.persona p {
+  font-size: 16px;
+  
+}
+
+.persona {
+  display: inline-block;
+  margin-right: 10px;
+  background-color: rgb(185, 182, 164);
+  border: 2px solid black;
+  padding: 10px 10px;
+  display: inline-block;
+  
+}
+
+.persona {
+  flex: 1;
+  margin-right: 10px;
+  
+}
+
+.Foto{
+  width: 400px;
+ 
+}
+.Retrat1{
+  width: 280px;
+}
+.Retrat2{
+  width: 210px;
+}
+.Retrat3{
+  width: 230px;
+}
+.Retrat4{
+  width: 230px;
+}
+.Retrat5{
+  width: 280px;
+}
+
+
+
+.fa-facebook {
+  background: #1877f2;
+}
+
+.fa-linkedin {
+  background: #0a66c2;
+}
+
+.fa-twitter {
+  background: #1da1f2;
+}
+
+.fa-instagram {
+  background: #c32aa3;
+}
+
+.fa-youtube {
+  background: #ff0000;
+}
+
+.redes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.redes i {
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  margin: 1px;
+  font-size: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.redes a {
+  text-decoration: none;
+}
+
+.redes i:hover {
+  -ms-transform: scale(1.1);
+  -webkit-transform: scale(1.1);
+  transform: scale(1.1);
+  opacity: .9;
+
+}
+
+
