@@ -1,0 +1,42 @@
+table {
+    border-collapse: collapse;
+    width: 400px;
+    height: 250px;
+    display: contents;
+    display: inline-flex;
+  }
+  
+  td {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    
+  }
+
+  p {
+    font-style: italic;
+    color: tomato;
+
+  }
+  
+  img {
+    width: 100%;
+    height: 100%;
+  }
+  
+  h1 {
+    text-align: center;
+    font-style: italic;
+    color: rgb(255, 238, 0);
+  }
+  
+  body{
+    background: url(cartoon-jungle-background-vector.jpg);
+    background-size: cover;
+    text-align: center;
+  }
+
+  #Puntuació{
+    color: rgb(0, 0, 0);
+  }
+  

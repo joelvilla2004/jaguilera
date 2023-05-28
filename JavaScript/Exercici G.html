@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Whac-A-Mole</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="Estil.css">
+    <script type="text/javascript" src="Whac-A-Mole.js"></script>
+</head>
+
+<body>
+    <header>
+        <h1>JUGUEM al WHAC-A-MOLE!</h1>
+        <p>Dificultat:
+            <select id="intervalo" onchange="cambiarIntervalo(this.value)">
+                <option value="2000" selected>Beginner</option>
+                <option value="1000">Novice</option>
+                <option value="500">Skilled</option>
+
+            </select>
+            <p id="Puntuació">Puntuació: <span id="puntos">0</span></p>
+
+        </p>
+    </header>
+    <main>
+        <table>
+            <tr>
+                <td id="celda1"><img src="topoNo.jpg" id="celda1"></td>
+                <td id="celda2"><img src="topoNo.jpg" id="celda2"></td>
+                <td id="celda3"><img src="topoNo.jpg" id="celda3"></td>
+            </tr>
+            <tr>
+                <td id="celda4"><img src="topoNo.jpg" id="celda4"></td>
+                <td id="celda5"><img src="topoNo.jpg" id="celda5"></td>
+                <td id="celda6"><img src="topoNo.jpg" id="celda6"></td>
+            </tr>
+            <tr>
+                <td id="celda7"><img src="topoNo.jpg" id="celda7"></td>
+                <td id="celda8"><img src="topoNo.jpg" id="celda8"></td>
+                <td id="celda9"><img src="topoNo.jpg" id="celda9"></td>
+            </tr>
+        </table>
+
+
+
+    </main>
+</body>
+
+</html>
